@@ -2,4 +2,4 @@ Idee:
   - SW-Entwicklungswerkzeuge als Gegenstand in App Dev 1 und 2
   - Beispielprojekte:
     - App Dev 1: Taschenrechner-Klasse
-    - App Dev 2: Taschenrechner-Service mit Datenbank hinter der "M/MR"-Taste, evtl. jUnit-Tests
+    - App Dev 2: Taschenrechner-Service mit Datenbank hinter der "M/MR"-Taste, evtl. jUnit-Tests?
